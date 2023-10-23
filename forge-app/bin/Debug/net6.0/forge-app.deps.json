@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "forge-app/1.0.0": {
+        "dependencies": {
+          "Autodesk.Forge": "1.9.9"
+        },
+        "runtime": {
+          "forge-app.dll": {}
+        }
+      },
+      "Autodesk.Forge/1.9.9": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "RestSharp": "108.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Autodesk.Forge.dll": {
+            "assemblyVersion": "1.9.9.0",
+            "fileVersion": "1.9.9.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "RestSharp/108.0.1": {
+        "runtime": {
+          "lib/net6.0/RestSharp.dll": {
+            "assemblyVersion": "108.0.1.0",
+            "fileVersion": "108.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forge-app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autodesk.Forge/1.9.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-07t2lXF8qVCQeW0Bqz2TWmLiBfJ28tTp4rHL87tsUsCD7aPBPcJwB+VRDkRQz3g4rY5xo0HN3Sz960K5mRtjOQ==",
+      "path": "autodesk.forge/1.9.9",
+      "hashPath": "autodesk.forge.1.9.9.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "RestSharp/108.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XKwuwWq7A4dxZ8l9QkS2+ePLJ9ImmLaJSeFO6H2kpII4Us4n1NRs4w3c//8H2BYpL1XqBE8nmsd9aNCVBwXmOA==",
+      "path": "restsharp/108.0.1",
+      "hashPath": "restsharp.108.0.1.nupkg.sha512"
+    }
+  }
+}

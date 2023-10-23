@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "bwXMfx31kT2NE66PjgO7D++V9Mu9SRa+GgRoMFN2NJg=",
+  "Source": "forge-app",
+  "BasePath": "_content/forge-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "forge-app\\wwwroot",
+      "Source": "forge-app",
+      "ContentRoot": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\",
+      "BasePath": "_content/forge-app",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\index.html",
+      "SourceId": "forge-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\",
+      "BasePath": "_content/forge-app",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\main.css",
+      "SourceId": "forge-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\",
+      "BasePath": "_content/forge-app",
+      "RelativePath": "main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\main.js",
+      "SourceId": "forge-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\",
+      "BasePath": "_content/forge-app",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\viewer.js",
+      "SourceId": "forge-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laura\\Desktop\\autodesk-ps-btcmp23-viewer\\forge-app\\forge-app\\wwwroot\\",
+      "BasePath": "_content/forge-app",
+      "RelativePath": "viewer.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\viewer.js"
+    }
+  ]
+}
